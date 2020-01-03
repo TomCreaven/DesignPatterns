@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6896cc2c-41b7-44f4-bc96-7bcb3d79e95d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBeanDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/BuilderLunchOrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTeleDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pluralsight/singleton/DbSingletonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
+            <state relative-caret-position="798">
               <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
             </state>
           </provider>
@@ -51,17 +53,68 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="95" />
+            <state relative-caret-position="252">
+              <caret line="12" selection-start-line="4" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBeanDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTele.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="141" selection-start-line="5" selection-start-column="141" selection-end-line="5" selection-end-column="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTeleDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="40" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+              <folding>
+                <element signature="method#getBread#0;class#LunchOrder#0" />
+                <element signature="method#getCondiments#0;class#LunchOrder#0" />
+                <element signature="method#getDressing#0;class#LunchOrder#0" />
+                <element signature="method#getMeat#0;class#LunchOrder#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/BuilderLunchOrderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBeanDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/pluralsight/prototype/PrototypeEverydayDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            <state relative-caret-position="42">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -91,6 +144,10 @@
         <option value="$PROJECT_DIR$/src/com/pluralsight/singleton/DbSingletonDemo.java" />
         <option value="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBean.java" />
         <option value="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBeanDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTele.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTeleDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/pluralsight/builder/BuilderLunchOrderDemo.java" />
       </list>
     </option>
   </component>
@@ -127,7 +184,7 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pluralsight" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="prototype" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CreationalPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -259,24 +316,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/singleton/DbSingletonDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="4" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBean.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTele.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="95" selection-start-line="2" selection-start-column="95" selection-end-line="2" selection-end-column="95" />
+        <state relative-caret-position="105">
+          <caret line="5" column="141" selection-start-line="5" selection-start-column="141" selection-end-line="5" selection-end-column="141" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderBeanDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="231">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/singleton/DbSingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding>
+            <element signature="method#getBread#0;class#LunchOrder#0" />
+            <element signature="method#getCondiments#0;class#LunchOrder#0" />
+            <element signature="method#getDressing#0;class#LunchOrder#0" />
+            <element signature="method#getMeat#0;class#LunchOrder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/LunchOrderTeleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="40" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/builder/BuilderLunchOrderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pluralsight/prototype/PrototypeEverydayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
